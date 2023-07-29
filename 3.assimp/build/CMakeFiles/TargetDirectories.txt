@@ -1,0 +1,3 @@
+/Users/renboyu/1.learn_OpenGL/3.assimp/build/CMakeFiles/OpenGL.dir
+/Users/renboyu/1.learn_OpenGL/3.assimp/build/CMakeFiles/edit_cache.dir
+/Users/renboyu/1.learn_OpenGL/3.assimp/build/CMakeFiles/rebuild_cache.dir

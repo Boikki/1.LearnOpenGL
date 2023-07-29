@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+65436b68acbba3248256b789c00c9d10 libs/thirdparty/assimp/CMakeFiles/uninstall
+bc8a81b66eed5e28915cff9f1d36a250 libs/thirdparty/glfw/src/CMakeFiles/update_mappings
